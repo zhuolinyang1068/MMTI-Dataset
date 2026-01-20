@@ -1,11 +1,11 @@
-# K12-MTID
-K12-MTID: A Dataset for Teaching Intention Recognition in K-12 Multidisciplinary Classrooms  
+# MMTI
+MMTI: A Multi-Grade, Multi-Subject Dataset for Teaching Intention Recognition in Real Classrooms  
   
-To provide a new perspective for teaching evaluation, we introduce K12-MTID, a large-scale dataset of teaching intention in real-world K–12 multidisciplinary classrooms. Grounded in teaching engagement theory, the dataset defines eight categories of teaching intention across three dimensions: emotion, cognition, and interaction.  
+We construct a MMTI dataset for real classroom scenarios, and design a three-dimensional, eight-category teaching intention annotation scheme. To the best of our knowledge, MMTI is the first dataset that supports teaching intention recognition across multiple grade levels and subject domains in real classroom settings.
+
+  <img width="1515" height="138" alt="fig2" src="https://github.com/user-attachments/assets/95965727-a38c-4204-9f54-f72408883296" />
+
+In future work, we plan to incorporate audio and visual modalities (e.g., speech prosody and classroom video cues) into the dataset to enable more accurate and fine-grained teaching intention recognition.
   
-![overview_new](https://github.com/user-attachments/assets/db2e1733-eff0-446e-8acb-f416f61fcc5e)  
-  
-In future work, we plan to incorporate speech information into the dataset to enable more precise recognition of teaching intention.  
-  
-We have provided a portion of the samples for review. The full K12-MTID dataset will be organized and released in the future.  
+We have provided a portion of the samples for review. The full MMTI dataset will be organized and released in the future.  
 
